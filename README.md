@@ -1,3 +1,14 @@
 # user-finder-app
-This project fetches user data from an API and displays it dynamically.
-Built a small web app consuming REST APIs using JavaScript and JSON, including dynamic filtering and UI updates.
+
+Simple web app that fetches users from a REST API and displays them dynamically.
+
+## Features
+- Fetch data from API
+- Display users
+- Search/filter users
+
+## Tech
+- HTML
+- CSS
+- JavaScript (ES6)
+- REST API
